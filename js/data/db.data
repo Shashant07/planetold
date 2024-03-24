@@ -1,0 +1,20 @@
+[
+    [
+        {
+            "id":"1",
+            "imgName":"img1.jpg",
+            "imgAltText":"What is Lorem Ipsum",
+            "imgLabel":"What is Lorem Ipsum",
+            "imgDescription":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+            "templates":[]
+        },
+        {
+            "id":"2",
+            "imgName":"img2.jpg",
+            "imgAltText":"What is Lorem Ipsum2",
+            "imgLabel":"What is Lorem Ipsum2",
+            "imgDescription":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+            "templates":[]
+        }
+    ]
+]
